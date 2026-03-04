@@ -1,0 +1,14 @@
+@[1]
+word is [bangalore]: file_count:1 file:file2.txt and word_count:1 
+@[8]
+word is [is]: file_count:1 file:file1.txt and word_count:1 
+word is [i]: file_count:1 file:file2.txt and word_count:1 
+word is [in]: file_count:1 file:file2.txt and word_count:1 
+@[11]
+word is [live]: file_count:1 file:file2.txt and word_count:1 
+@[12]
+word is [my]: file_count:1 file:file1.txt and word_count:1 
+@[13]
+word is [name]: file_count:1 file:file1.txt and word_count:1 
+@[14]
+word is [omkar]: file_count:1 file:file1.txt and word_count:1 
